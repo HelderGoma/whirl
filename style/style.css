@@ -140,17 +140,15 @@ body {
     justify-content: center;
     gap: 32px;
     padding-top: 160px;
-  
 }
 
 img {
     padding: 32px 268px 8px 32px;
 }
 
-h2 {
-    font-family: Fraunces;
+.main_title {
+    font-family: "Inter", sans-serif;
     font-weight: 400;
-    font-style: Regular;
     font-size: 25px;
     line-height: 31.25px;
     letter-spacing: 0.2px;
@@ -161,11 +159,10 @@ h2 {
 
 }
 
-p {
+.main_text {
     width: 320px;
-    font-family: Inter;
+    font-family: "Inter", sans-serif;
     font-weight: 400;
-    font-style: Regular;
     font-size: 15px;
     line-height: 24px;
     letter-spacing: 0.2px;
