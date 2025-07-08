@@ -156,19 +156,18 @@ body {
     align-items: center;
 }
 
-.main {
+.section_benefits {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 32px;
-    /* padding-top: 160px; */
 }
 
-.main_img {
+.benefits_img {
     padding: 32px 268px 8px 32px;
 }
 
-.main_title {
+.benefits_title {
     font-family: "Inter", sans-serif;
     font-weight: 400;
     font-size: 25px;
@@ -181,7 +180,7 @@ body {
 
 }
 
-.main_text {
+.benefits_text {
     width: 320px;
     font-family: "Inter", sans-serif;
     font-weight: 400;
@@ -193,19 +192,19 @@ body {
 
 }
 
-.main_fast {
+.benefits_fast {
     width: 355px;
     height: 250px;
     background-color: #FAEA73;
 }
 
-.main_more {
+.benefits_more {
     width: 355px;
     height: 250px;
     background-color: #CCEFF6;
 }
 
-.main_save {
+.benefits_save {
     width: 355px;
     height: 250px;
     background-color: #F7CEDC;
