@@ -134,15 +134,37 @@ body {
     gap: 8px;
 }
 
+.trust {
+    padding-top: 40px;
+    padding-bottom: 160px;
+}
+
+
+.trust__title {
+    font-size: 24px;
+    line-height: 37px;
+    margin-bottom: 24px;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+}
+
+.trust__logos {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    list-style-type: none;
+    align-items: center;
+}
+
 .main {
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 32px;
-    padding-top: 160px;
+    /* padding-top: 160px; */
 }
 
-img {
+.main_img {
     padding: 32px 268px 8px 32px;
 }
 
